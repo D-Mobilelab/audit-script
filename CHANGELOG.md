@@ -1,3 +1,6 @@
+# 1.0.3
+- added "top" and "left" styles
+
 # 1.0.2
 - prepend() replaced by appendChild()
 

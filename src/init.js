@@ -25,6 +25,8 @@ module.exports = function(options){
         element.style.backgroundColor = 'rgba(221, 221, 221, 0.7)';
         element.style.color = '#000000';
         element.style.zIndex = '999999999';
+        element.style.top = '0';
+        element.style.left = '0';
         element.innerHTML = 'This message is visible only with set track <a style=\'color:red;\' href=\'#\' onclick=\'Audit.open();return false;\'>Audit tool</a>';
         document.body.appendChild(element);
     }    
