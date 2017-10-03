@@ -99,7 +99,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        element.style.color = '#000000';
 	        element.style.zIndex = '999999999';
 	        element.innerHTML = 'This message is visible only with set track <a style=\'color:red;\' href=\'#\' onclick=\'Audit.open();return false;\'>Audit tool</a>';
-	        document.body.prepend(element);
+	        document.body.appendChild(element);
 	    }    
 	};
 
@@ -129,4 +129,4 @@ return /******/ (function(modules) { // webpackBootstrap
 });
 ;
 
-/* Audit Script 1.0.1 */
+/* Audit Script 1.0.2 */

@@ -1,3 +1,6 @@
+# 1.0.2
+- prepend() replaced by appendChild()
+
 # 1.0.0
 - Added opcatity to background
 - Style color #000000
