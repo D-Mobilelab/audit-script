@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/D-Mobilelab/audit-script/badge.svg?branch=master&v=1)](https://coveralls.io/github/D-Mobilelab/audit-script?branch=master)
 [![npm version](https://badge.fury.io/js/audit-script.svg)](https://badge.fury.io/js/audit-script)
 [![Bower version](https://badge.fury.io/bo/audit-script.svg)](https://badge.fury.io/bo/audit-script)
-[![GitHub version](https://badge.fury.io/gh/D-Mobilelab%2Faudit-script.svg)](https://badge.fury.io/gh/D-Mobilelab%2Faudit-script)
+[![GitHub version](https://badge.fury.io/gh/D-Mobilelab%2Faudit-script.svg)](https://badge.fury.io/gh/D-Mobilelab%2Faudit-script) [![Greenkeeper badge](https://badges.greenkeeper.io/D-Mobilelab/audit-script.svg)](https://greenkeeper.io/)
 
 ## Installation
 
